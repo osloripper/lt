@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="ETV HD" tvg-type="Entertainment" group-title="Entertainment" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",ETV HD
+https://d1rznlx03muoan.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-name="ETV Plus HD" tvg-type="Entertainment" group-title="Entertainment" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",ETV Plus HD
+https://d2pk5pedkyu2d0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-name="ETV Cinema HD" tvg-type="Movies" group-title="Movies" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",ETV Cinema HD
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-name="ETV Andhra Pradesh" tvg-type="News" group-title="News" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",ETV Andhra Pradesh
+https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-name="ETV Telangana" tvg-type="News" group-title="News" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",ETV Telangana
+https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-name="TV9 Telugu News" tvg-type="News" group-title="News" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",TV9 Telugu News
+https://vg-tv9live.akamaized.net/v1/vglive-sk-121537/main.m3u8
+
+#EXTINF:-1 tvg-name="ETV Abhiruchi" tvg-type="Lifestyle" group-title="Lifestyle" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",ETV Abhiruchi
+https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
+
+#EXTINF:-1 tvg-name="ETV Life" tvg-type="Infotainment" group-title="Infotainment" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",ETV Life
+https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-name="Gemini TV HD" tvg-type="Entertainment" group-title="Entertainment" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV HD
+https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
+
+#EXTINF:-1 tvg-name="Gemini Movies HD" tvg-type="Movies" group-title="Movies" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Gemini Movies HD
+https://geminimovieshd.akamaized.net/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd|drmScheme=clearkey&drmLicense=9b93b0f6ce45438f9a66bd75165444c2:5dc0933d2793fe5739f83bfe8f23282a
+
+#EXTINF:-1 tvg-name="Gemini Music HD" tvg-type="Music" group-title="Music" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",Gemini Music HD
+https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd|drmScheme=clearkey&drmLicense=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
+
+#EXTINF:-1 tvg-name="Gemini Comedy" tvg-type="Entertainment" group-title="Entertainment" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedy
+https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd|drmScheme=clearkey&drmLicense=93e686ceac134f30b0a7bc3ce5a76b26:2c37e97fa0646751e1f2b85bc4b9ff8a
+
+#EXTINF:-1 tvg-name="Gemini Life" tvg-type="Movies" group-title="Movies" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png",Gemini Life
+https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd|drmScheme=clearkey&drmLicense=96d5157791ea4817a66a419e285a137f:d6d0ad2a9a6cc56e18d7557c7c693a37
+
+#EXTINF:-1 tvg-name="Kushi TV" tvg-type="Kids" group-title="Kids" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png",Kushi TV
+https://livestream.sunnxt.com/4a736d41608849758a0aed36949ded30/KushiTVB_IN_index.mpd|drmScheme=clearkey&drmLicense=e16421cf7c374c57a8f7e91049f58cd9:b7e01aba2c307b1f05057e91a9d150d2
+
+#EXTINF:-1 tvg-name="Zee Telugu HD" tvg-type="Entertainment" group-title="Entertainment" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png",Zee Telugu HD
+https://fundamental-ie-dish-sing.trycloudflare.com/app/live.php?id=1354&e=.m3u
+
+#EXTINF:-1 tvg-name="Zee Cinemalu HD" tvg-type="Movies" group-title="Movies" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",Zee Cinemalu HD
+https://fundamental-ie-dish-sing.trycloudflare.com/app/live.php?id=1363&e=.m3u
+
+#EXTINF:-1 tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SET HD
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony SAB HD" group-title="SonyLiv" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony MAX HD" group-title="SonyLiv" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony MAX HD
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony PIX HD" group-title="SonyLiv" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",Sony PIX HD
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony BBC Earth HD" group-title="SonyLiv" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",Sony BBC Earth HD
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony TEN 1 HD" group-title="SonyLiv" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony TEN 1 HD
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony TEN 2 HD" group-title="SonyLiv" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony TEN 2 HD
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony TEN 3 HD" group-title="SonyLiv" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",Sony TEN 3 HD
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony TEN 4 HD" group-title="SonyLiv" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",Sony TEN 4 HD
+https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+
+#EXTINF:-1 tvg-name="Sony TEN 5 HD" group-title="SonyLiv" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony TEN 5 HD
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
